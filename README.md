@@ -19,7 +19,7 @@ For June, the average tempreture was 74.94, std was 3.25, min was 64 and max was
 
 For December, the average tempreture was 71.04, std was 3.74, min was 56 and max was 83. The mean precipitation was 0.21, std was 0.54, min was 0 and max was 6.42. 
 
-![](December.png)
+![](December2.png)
 ![](December1.PNG)
 
 The average tempreture in June is slightly higher than December (~3 degrees). There is higher chance of precipitation in December than June in Oahu since the max and average tempreture is higher in December than June. In addition the std is higher in December than in June for the tempreture and percipitation. 
