@@ -12,13 +12,13 @@ In this challenge, we found a key aspects of Oahu's seasonal weather data. The i
 
 We began this challenge by adding our dependents (from sqlalchemy import extract). We used the session.query to find the date, precipitation, and temperature for June and December. We then created a DataFrame and printed the index for June and December.
 
-For June, the average temperature was 74.94, std was 3.25, min was 64 and max was 85. The mean precipitation was 0.13, std was 0.335, min was 0 and max was 4.43.
+For June, the average temperature was 74.94, std was 3.25, min was 64 and max was 85. The mean precipitation was 0.13, std was 0.335, min was 0 and max was 4.43. The graph bellow shoes the precipiation and tempreture bins with the max temp being 85 and max precipitation being 4.43.
 
 
 ![](June.png)
 ![](June1.PNG)
 
-For December, the average temperature was 71.04, std was 3.74, min was 56 and max was 83. The mean precipitation was 0.21, std was 0.54, min was 0 and max was 6.42. 
+For December, the average temperature was 71.04, std was 3.74, min was 56 and max was 83. The mean precipitation was 0.21, std was 0.54, min was 0 and max was 6.42. The graph bellow shoes the precipiation and tempreture bins with the max temp being 83 and max precipitation being 6.42.
 
 ![](December2.png)
 ![](December1.PNG)
